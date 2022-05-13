@@ -1,0 +1,19 @@
+.container {
+  height: 96px;
+  left: 0px;
+  top: 0px;
+  background: #676767;
+  display: flex;
+  justifycontent: center;
+}
+
+.logo {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 48px;
+  text-align: center;
+
+  color: #ffffff;
+}
